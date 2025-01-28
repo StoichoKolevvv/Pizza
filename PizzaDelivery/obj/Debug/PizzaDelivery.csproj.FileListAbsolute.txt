@@ -1,0 +1,10 @@
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\bin\Debug\PizzaDelivery.exe.config
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\bin\Debug\PizzaDelivery.exe
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\bin\Debug\PizzaDelivery.pdb
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.csproj.AssemblyReference.cache
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.Form1.resources
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.Properties.Resources.resources
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.csproj.GenerateResource.cache
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.csproj.CoreCompileInputs.cache
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.exe
+C:\Users\1212-6\Desktop\11a gengsta\PizzaDelivery\obj\Debug\PizzaDelivery.pdb
